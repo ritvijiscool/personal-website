@@ -1,2 +1,2 @@
 # Personal Website
-Ritvij's Personal Website
+Ritvij's crappy personal website.
